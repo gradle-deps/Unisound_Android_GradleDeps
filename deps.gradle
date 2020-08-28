@@ -41,7 +41,7 @@ ext {
             amap_location : 'com.amap.api:location:4.2.0',
 
             zxing : 'com.google.zxing:core:3.3.0',
-            zxing_android : 'com.google.zxing:android-core:3.3.0'
+            zxing_android : 'com.google.zxing:android-core:3.3.0',
             
             message_center: 'com.unisound.aios:message-center:1.1.0'
     ]
