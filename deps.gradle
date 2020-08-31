@@ -52,6 +52,7 @@ ext {
     
             lib_basic : 'com.unisound.android:lib_basic:1.0.0-SNAPSHOT',
             lib_network : 'com.unisound.android:lib_network:1.0.0-SNAPSHOT',
-            lib_push : 'com.unisound.android:lib_push:1.0.0-SNAPSHOT'
+            lib_push : 'com.unisound.android:lib_push:1.0.0-SNAPSHOT',
+            lib_sipim : 'com.unisound.android:lib_sipim:1.0.0-SNAPSHOT',
     ]
 }
