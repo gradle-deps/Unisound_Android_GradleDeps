@@ -27,6 +27,7 @@ ext {
             material : 'com.google.android.material:material:1.2.0',
 
             glide : 'com.github.bumptech.glide:glide:4.11.0',
+            glide_compiler : 'com.github.bumptech.glide:compiler:4.11.0',
 
             bugly_crashreport : 'com.tencent.bugly:crashreport:3.2.33',
             bugly_nativecrashreport : 'com.tencent.bugly:nativecrashreport:3.7.471',
