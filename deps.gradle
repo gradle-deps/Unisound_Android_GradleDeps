@@ -43,7 +43,7 @@ ext {
             zxing : 'com.google.zxing:core:3.3.0',
             zxing_android : 'com.google.zxing:android-core:3.3.0',
             
-            linphone : 'org.linphone:linphone-sdk-android:4.5+',
+            linphone : 'org.linphone:linphone-sdk-android:4.4.1-pre.21+d450c2e',
             
             message_center: 'com.unisound.aios:message-center:1.1.0'
     ]
