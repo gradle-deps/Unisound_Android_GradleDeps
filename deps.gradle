@@ -47,6 +47,7 @@ ext {
             linphone : 'org.linphone:linphone-sdk-android:4.4.1-pre.21+d450c2e',
             
             message_center: 'com.unisound.aios:message-center:1.1.0'
+            
     ]
     
     unisound = [
