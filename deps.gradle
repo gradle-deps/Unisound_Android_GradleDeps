@@ -26,7 +26,7 @@ ext {
             viewpager2 : 'androidx.viewpager2:viewpager2:1.0.0',
             cardview : 'androidx.cardview:cardview:1.0.0',
             material : 'com.google.android.material:material:1.2.0',
-            cymChad_adapter : 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.50',
+            cymChad_adapter : 'com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.4',
 
             glide : 'com.github.bumptech.glide:glide:4.11.0',
             glide_compiler : 'com.github.bumptech.glide:compiler:4.11.0',
