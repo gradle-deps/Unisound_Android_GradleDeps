@@ -16,6 +16,7 @@ ext {
             lifecycle_extensions : 'androidx.lifecycle:lifecycle-extensions:2.2.0',
 
             okhttp : 'com.squareup.okhttp3:okhttp:4.8.1',
+            okhttp_log : 'com.squareup.okhttp3:logging-interceptor:4.8.1',
             retrofit : 'com.squareup.retrofit2:retrofit:2.9.0',
             gson : 'com.google.code.gson:gson:2.8.5',
             retrofit_converter_gson : 'com.squareup.retrofit2:converter-gson:2.5.0',
